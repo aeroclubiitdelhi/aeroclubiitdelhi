@@ -4,7 +4,7 @@
 
 ### *Design • Build • Fly • Innovate*
 
-The official GitHub organization of the **Aero Club, IIT Delhi**.
+The official GitHub organization of the **AeroClub, IIT Delhi**.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@aeroclub__iitd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aeroclub_iitd/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aero%20Club%20IIT%20Delhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/aeromodelling-club-iit-delhi/)
