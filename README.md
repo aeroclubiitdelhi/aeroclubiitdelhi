@@ -153,6 +153,6 @@ Stay updated with our latest projects, workshops, competitions, and events.
 
 *"Engineering the future of flight, one project at a time."*
 
-**Made with ❤️ by Aero Club IIT Delhi**
+**Made with ❤️ by AeroClub IIT Delhi**
 
 </div>
